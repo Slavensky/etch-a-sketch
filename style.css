@@ -1,0 +1,13 @@
+.grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 500px;
+}
+
+.grid-element {
+    background-color: white;
+    margin: 0;
+    padding: auto;
+    border: solid 1px;
+}
